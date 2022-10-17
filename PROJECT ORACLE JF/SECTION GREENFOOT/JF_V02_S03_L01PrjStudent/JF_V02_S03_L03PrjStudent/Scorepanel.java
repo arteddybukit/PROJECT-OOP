@@ -1,0 +1,17 @@
+import lang.stride.*;
+import java.util.*;
+import greenfoot.*;
+
+/**
+ * 
+ */
+public class Scorepanel extends Actor
+{
+
+    /**
+     * Act - do whatever the Scorepanel wants to do. This method is called whenever the 'Act' or 'Run' button gets pressed in the environment.
+     */
+    public void act()
+    {
+    }
+}
